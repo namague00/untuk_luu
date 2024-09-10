@@ -1,0 +1,9 @@
+#tanggalwaktu {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    color: #ffffff; /* Warna teks menjadi putih */
+    font-size: 14px;
+    z-index: 100; /* Agar tampil di atas elemen lain */
+    }
+ 
